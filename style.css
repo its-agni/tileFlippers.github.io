@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  background-color: yellow;
+}
+.grid {
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  height: 300px;
+  width: 400px;
+}
+
+button {
+  margin: 25px;
+  padding: 20px;
+  border: none;
+  border-radius: 15px;
+  color: white;
+  background-color: green;
+}
