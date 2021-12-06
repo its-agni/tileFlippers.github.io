@@ -11,10 +11,14 @@ body {
 }
 
 button {
+  cursor: pointer;
   margin: 25px;
   padding: 20px;
   border: none;
   border-radius: 15px;
   color: white;
+  background-color: rgb(30, 190, 30);
+}
+button:hover {
   background-color: green;
 }
